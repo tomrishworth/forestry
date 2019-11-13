@@ -26,3 +26,5 @@ fields:
     schema:
       format: markdown
   label: Bio
+pages:
+- tom.md
